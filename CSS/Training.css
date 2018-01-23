@@ -1,0 +1,82 @@
+
+.div1{
+	color: red;
+	background-image:url('../image/pexels-photo-248797.jpeg');
+	height: 200px;
+/*	align-content: right;
+	text-align: right;
+*/
+	/*padding: 50px;*/
+}
+
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    float: right;
+    display: inline;
+
+}
+li{
+
+	display: inline;
+}
+
+a{
+
+	/*display: block;*/
+	color: yellow;
+}
+h1{
+
+	text-align: center;
+	font-size: 24px;
+	margin-left: 500px;
+	text-align: justify;
+}
+h2{
+
+	text-align: center;
+	font-size: 24px;
+	margin-left: 500px;
+	text-align: justify;
+}
+.div2{
+	margin: 3px;
+	
+	background-color: green;
+}
+
+.div3{
+
+	float: left;
+	width: 47%;	
+	background-color: blue;
+
+
+}
+.div4{
+
+	float: right;
+	width: 47%;	
+	background-color: pink;
+}
+body{
+	background-color: gray;
+}
+
+.div5{
+	bottom: 0;
+	margin-bottom: 0;
+	float: left;
+}
+
+footer { 
+    display: block;
+    float: left;
+    position: absolute;
+    margin-bottom: 0;
+    bottom: 0;
+}
+
